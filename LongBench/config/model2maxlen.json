@@ -6,5 +6,8 @@
     "chatglm2-6b": 31500,
     "chatglm2-6b-32k": 31500,
     "chatglm3-6b-32k": 31500,
-    "vicuna-v1.5-7b-16k": 15500
+    "vicuna-v1.5-7b-16k": 15500,
+    "state-spaces/mamba-1.4b": 2048,
+    "state-spaces/mamba-130m": 2048,
+    "state-spaces/mamba2-780m": 2048
 }
